@@ -1,7 +1,1 @@
-langgenius/dify-api:0.6.12-fix1
-langgenius/dify-web:0.6.12-fix1
-postgres:15-alpine
-redis:6-alpine
-langgenius/dify-sandbox:0.2.1
-nginx:latest
-semitechnologies/weaviate:1.19.0
+eclipse-temurin:8-jre

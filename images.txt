@@ -1,9 +1,5 @@
-taigaio/taiga-back:latest
-postgres:12.3
-taigaio/taiga-back:latest
-rabbitmq:3.8-management-alpine
-taigaio/taiga-front:latest
-taigaio/taiga-events:latest
-rabbitmq:3.8-management-alpine
-taigaio/taiga-protected:latest
-nginx:1.19-alpine
+postgres:13
+memcached
+openproject/proxy:14-slim
+willfarrell/autoheal:1.2.0
+openproject/openproject:14-slim

@@ -1,5 +1,4 @@
 postgres:13
 memcached
-openproject/proxy:14-slim
 willfarrell/autoheal:1.2.0
 openproject/openproject:14-slim

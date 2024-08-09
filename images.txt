@@ -1,4 +1,4 @@
 postgres:13
 memcached
 willfarrell/autoheal:1.2.0
-openproject/openproject:14-slim
+openproject/openproject:14

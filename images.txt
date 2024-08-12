@@ -1,2 +1,2 @@
 
-openproject/openproject:14
+milvusdb/milvus:v2.4.5

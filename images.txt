@@ -1,2 +1,1 @@
-
-milvusdb/milvus:v2.4.5
+shibing624/pycorrector:0.0.2

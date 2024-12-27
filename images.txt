@@ -1,1 +1,1 @@
-nvidia/cuda:11.3.1-runtime-ubuntu18.04
+pytorch/pytorch:2.2.0-cuda12.1-cudnn8-devel

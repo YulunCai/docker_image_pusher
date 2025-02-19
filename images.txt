@@ -1,3 +1,1 @@
-docker.io/valkey/valkey:8-alpine
-docker.io/searxng/searxng:latest
-docker.io/library/caddy:2-alpine
+pytorch/pytorch:2.4.0-cuda12.1-cudnn9-runtime

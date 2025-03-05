@@ -1,1 +1,1 @@
-lmsysorg/sglang:v0.4.3-cu121
+infiniflow/ragflow:v0.17.0

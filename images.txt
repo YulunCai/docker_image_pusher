@@ -1,2 +1,1 @@
-langgenius/dify-plugin-daemon:0.0.4-local
-postgres:15-alpine
+lmsysorg/sglang:v0.4.6.post1-cu121

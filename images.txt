@@ -1,1 +1,1 @@
-public.ecr.aws/q9t5s3a7/vllm-cpu-release-repo:v0.9.0
+hiyouga/llama-factory:latest

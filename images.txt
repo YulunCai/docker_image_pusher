@@ -1,1 +1,1 @@
-ghcr.io/hiyouga/llama-factory:latest
+hiyouga/llamafactory:latest

@@ -1,1 +1,1 @@
-nvcr.io/nvidia/pytorch:24.02-py3
+quay.io/gpustack/runner:cuda12.8-vllm0.11.2
